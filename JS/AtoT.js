@@ -20,4 +20,3 @@ const arrayToTree = (array, indx = 0) => {
 
 }
 
-
